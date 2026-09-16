@@ -1,5 +1,5 @@
 fastapi==0.116.1
-tarlette==0.20.4
+Starlette==0.20.4
 uvicorn==0.35.0
 pytest==8.4.1
 httpx==0.28.1
